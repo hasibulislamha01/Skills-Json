@@ -1,38 +1,38 @@
 [
     {
       "name": "HTML",
-      "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+      "icon": "https://i.ibb.co/Y0q6hvw/html-5.png"
     },
     {
       "name": "CSS",
-      "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      "icon": "https://i.ibb.co/9hQCfSq/css-3.png"
     },
     {
       "name": "Tailwind CSS",
-      "icon": "https://img.icons8.com/fluency/48/000000/tailwind-css.png"
+      "icon": "https://i.ibb.co/2yGgvH3/icons8-tailwind-css-480.png"
     },
     {
       "name": "JavaScript",
-      "icon": "https://img.icons8.com/color/48/000000/javascript.png"
+      "icon": "https://i.ibb.co/k9MctX6/icons8-js-480.png"
     },
     {
       "name": "React",
-      "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+      "icon": "https://i.ibb.co/cLhCw5x/science.png"
     },
     {
       "name": "Firebase",
-      "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+      "icon": "https://i.ibb.co/x6gDJsr/icons8-google-firebase-console-480.png"
     },
     {
       "name": "Node.js",
-      "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+      "icon": "https://i.ibb.co/r2LN0Lj/programing.png"
     },
     {
       "name": "MongoDB",
-      "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+      "icon": "https://i.ibb.co/x7h0NnX/mongodb.jpg"
     },
     {
       "name": "Express.js",
-      "icon": "https://img.icons8.com/color/48/000000/express.png"
+      "icon": "https://i.ibb.co/y4CfcL0/icons8-express-js-480.png"
     }
   ]
